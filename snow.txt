@@ -1,9 +1,10 @@
-testing line
 untesting file
 commit.test
 правда, что ждать еще минимум пять месяцев?
 
 надеюсь, нет, без холода - тяжело.
 add line
+new line for gui
+hihihihi
 edit2021
 edit2022
